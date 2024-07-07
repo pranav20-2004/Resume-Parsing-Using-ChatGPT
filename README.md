@@ -12,9 +12,6 @@ This repository contains a solution for parsing resume content into JSON format 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Prompt](#prompt)
-- [Example](#example)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
