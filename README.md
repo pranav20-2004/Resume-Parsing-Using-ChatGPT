@@ -27,7 +27,6 @@ This repository contains a solution for parsing resume content into JSON format 
     cd Resume-Parsing-Using-ChatGPT
     ```
 
-3. Install the necessary dependencies (if any).
 
 ## Usage
 
